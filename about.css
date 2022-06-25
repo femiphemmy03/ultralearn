@@ -1,0 +1,238 @@
+.container1
+ {
+  position: absolute;
+  width: 1440px;
+  height: 71px;
+  left: 0px;
+  top: 0px;
+  
+  background:#D9D9D9;
+
+ }
+
+  .ultralearn
+  {
+    position: absolute;
+width: 197px;
+height: 39px;
+left: 109px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 39px;
+color: #5F0F40;
+  }
+.home
+{
+  position: absolute;
+width: 105.92px;
+height: 29px;
+left: 401px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+
+color: #5F0F40;
+}
+.aboutus
+{
+  position: absolute;
+  width: 158.18px;
+  height: 29px;
+  left: 542px;
+  top: 16px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  
+  color: #5F0F40;
+  
+}
+.contactus
+{
+  position: absolute;
+width: 187.83px;
+height: 29px;
+left: 735px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+
+color: #5F0F40;
+}
+.skills
+{
+  position: absolute;
+width: 86.15px;
+height: 29px;
+left: 958px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+
+color: #5F0F40;
+}
+.container2
+{
+  position: absolute;
+width: 1440px;
+height: 379px;
+left: 0px;
+top: 71px;
+
+background: rgba(217, 217, 217, 0.1);
+backdrop-filter: blur(10px);
+}
+.aboutus2
+{
+  position: absolute;
+width: 310px;
+height: 78px;
+left: 565px;
+top: 222px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+color: #5F0F40;
+
+}
+.ourmission
+{
+  position: absolute;
+width: 245px;
+height: 49px;
+left: 94px;
+top: 562px;
+text-align: left;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+}
+.mission2
+{
+  position: absolute;
+width: 243px;
+height: 24px;
+left: 96px;
+top: 641px;
+text-align: justify;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #80004E;
+}
+.environment
+{
+  position: absolute;
+width: 602px;
+height: 156px;
+left: 762px;
+top: 532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #5F0F40;
+}
+.mission3
+{
+  position: absolute;
+width: 602px;
+height: 78px;
+left: 94px;
+top: 792px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #5F0F40;
+
+}
+.vision
+{
+  position: absolute;
+width: 215px;
+height: 49px;
+left: 1126px;
+top: 775px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+}
+.vision2
+{
+  position: absolute;
+width: 213px;
+height: 24px;
+left: 1126px;
+top: 844px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #80004E;
+}
+.container3
+{
+  position: absolute;
+width: 1440px;
+height: 606px;
+left: 0px;
+top: 1020px;
+
+background: #5F0F40;
+}
+.leaders
+{
+  position: absolute;
+width: 447px;
+height: 59px;
+left: 497px;
+top: 1094px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+}
